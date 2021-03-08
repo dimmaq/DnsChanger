@@ -1,0 +1,10 @@
+*.dcu
+*.bak
+__history/
+Win32/
+exec/
+*.dproj.local
+*.identcache
+*.res
+*.drc
+fut1.mes
